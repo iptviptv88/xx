@@ -11,7 +11,7 @@
  {
       "name": "小新TV",
       "type": 0,
-      "url": "https://codeberg.org/IPTVIPTV/IPTV/raw/branch/main/%E7%94%B5%E8%A7%86.txt",
+      "url": "https://raw.githubusercontent.com/iptviptv88/xx/refs/heads/main/dianshi.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "https://v.morefun.cn/diyp/epg.php",
