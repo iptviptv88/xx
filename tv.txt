@@ -910,6 +910,22 @@ CHC家庭影院,https://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3
 CHC家庭影院,https://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/2000/01.m3u8?&HlsSubType=&encrypt=
 CHC家庭影院,https://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/1000/01.m3u8?&HlsSubType=&encrypt=
 
+六合频道,#genre#
+香港,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+香港,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+香港,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+香港,http://php.jdshipin.com/PLTV/iptv.php?id=j2
+香港,http://j.s.bkpcp.top/jj/2j
+香港,http://bxtv.3a.ink/api.php?id=tvbp
+香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+香港,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+香港,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
+香港,http://t.061899.xyz/tl/js/js.php?id=tvbplus
+新澳,https://play3636.zdwafis.com/live/mosixmark.flv
+新澳,https://play666.macau-lhc.live/live/mosixmark.flv
+老澳,https://vdm6-hw.qunleniuniu.com/live/2032-2.flv
+老澳,https://vdm6-ali.hrypl168.com/live/a6.flv
+
 广东频道,#genre#
 汕头综合,http://iptv.morefun.cn/sttv/sttv.php?id=st1
 汕头综合,http://iptv.morefun.cn/sttv/st1t.php
