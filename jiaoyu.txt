@@ -1,36 +1,36 @@
 {
   "spider": "https://gitee.com/tianwikeji/qxzj/raw/master/QX.jar",
-  "wallpaper": "小新智教祝您:学业有成，前途似锦!",
+  "wallpaper": "小新智教祝您：学业有成，前景似锦！",
   "logo": "https://gitee.com/tianwikeji/qxzj/raw/master/jiaoyu.gif",
   //"warningText": "【小新智教】声明：资源来自网络，所有内容仅供学习使用",
-  "sites": [
+  “网站”：[
     {
       "key": "Bili2",
       "name": "🌟小新智教┃趣学🌟",
-      "type": 3,
+      “类型”：3，
       "api": "csp_Bili2",
       "jar": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/qx.jar",
-      "searchable": 0,
+      “可搜索”：0，
       "ext": "./jiaoyu2.json"
     },
     {
       "key": "小灯塔国学",
       "name": "🌟灯塔┃国学🌟",
-      "type": 3,
+      “类型”：3，
       "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
+      “可搜索”：0，
+      “快速搜索”：1，
+      “可过滤”：1，
       "ext": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/小灯塔国学.json"
     },
     {
       "key": "小灯塔科学",
       "name": "🌟灯塔┃科学🌟",
-      "type": 3,
+      “类型”：3，
       "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
+      “可搜索”：0，
+      “快速搜索”：1，
+      “可过滤”：1，
       "ext": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/小灯塔科学.json"
     },
     {
