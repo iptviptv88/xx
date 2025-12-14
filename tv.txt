@@ -602,9 +602,10 @@ Hoy77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 
 
 广东频道,#genre#
-汕头综合,http://iptv.morefun.cn/sttv/sttv.php?id=st1
-汕头综合,http://iptv.morefun.cn/sttv/st1t.php
-汕头综合,http://iptv.morefun.cn/sttv/gddx/gddx.php?id=stzh
+汕头综合频道,http://113.119.25.243:58888/udp/239.253.43.45:5146
+汕头经济生活,http://113.119.25.243:58888/udp/239.253.43.46:5146
+汕头综合频道,http://183.236.43.98:4013/udp/239.253.43.45:5146
+汕头经济生活,http://183.236.43.98:4013/udp/239.253.43.46:5146
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
