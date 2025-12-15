@@ -3,10 +3,10 @@
 {"name": "🚀OK线路","url":"http://ok321.top/ok"},
 {"name":"🏄️巧技线路","url":"http://cdn.qiaoji8.com/tvbox.json"}, 
 
-//{"name": "🚀饭太�?","url":"http://www.饭太�?.com/tv"},
-{"name": "🚀盒子�?","url":"https://盒子�?.top/禁止贩卖"},
+//{"name": "🚀饭太硬","url":"http://www.饭太硬.com/tv"},
+{"name": "🚀盒子迷","url":"https://盒子迷.top/禁止贩卖"},
 {"name": "🚀肥猫线路","url":"http://肥猫.com"},
-{"name":"💎摸鱼线路","url":"http://我不�?.摸鱼�?.com"}, 
+{"name":"💎摸鱼线路","url":"http://我不是.摸鱼儿.com"}, 
 {"name":"🚀毒盒影视","url":"https://tv.youdu.fan:666/毒盒影视/"}, 
 {"name": "🚀Luck自建","url":"https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json"},
 
@@ -48,14 +48,14 @@
     },      
     {
       "url": "http://tv.nxog.top/m",
-      "name": "🍳挺好丨讴歌线�?"
+      "name": "🍳挺好丨讴歌线路"
     },
     {
        "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin",
        "name": "💞多多网盘"
     }, 
     {
-      "url": "http://www.饭太�?.com/tv",
+      "url": "http://www.饭太硬.com/tv",
       "name": "🍨饭硬专线"
     },    
     {
@@ -82,7 +82,7 @@
     },
 
     {
-      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧�?",
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌",
       "name": "🚀讴歌线路"
     },
    {
@@ -103,7 +103,7 @@
       "name": "🚀潇洒专线"
     },
     {
-      "url": "http://我不�?.摸鱼�?.com",
+      "url": "http://我不是.摸鱼儿.com",
       "name": "🚀摸鱼线路"
     },
     {
@@ -182,9 +182,9 @@
     },
 
 {"name": "🚀讴歌线路","url":"https://xn--9hh9-wn6lw489o.v.nxog.top/m"},
-{"name": "🚀欧歌�?1","url":"http://vip.56jm.cn/dwz/ouge_b1"},
-{"name": "🚀欧歌�?2","url":"http://vip.56jm.cn/dwz/ouge_b2"},
-{"name": "🚀欧歌�?3","url":"http://vip.56jm.cn/dwz/ouge_b3"},
+{"name": "🚀欧歌1","url":"http://vip.56jm.cn/dwz/ouge_b1"},
+{"name": "🚀欧歌2","url":"http://vip.56jm.cn/dwz/ouge_b2"},
+{"name": "🚀欧歌3","url":"http://vip.56jm.cn/dwz/ouge_b3"},
 //{"name": "🚀欧歌线路","url":"http://tv.nxog.top/"},
 
 //{"name": "🚀欧歌线路2","url":"https://2.nxog.eu.org/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv"},
@@ -193,9 +193,9 @@
 
 
 
-//{"name": "😘�? �?","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"},
+//{"name": "😘短剧线路","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"},
 
-{"name":"💎不良帅线�?","url":"https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json"}, 
+{"name":"💎不良帅线路","url":"https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json"}, 
 {"name":"💎小马线路","url":"https://szyyds.cn/tv/x.json"}, 
 
 
@@ -208,7 +208,7 @@
       "url": "http://74.120.175.78/JK/XYQTVBox/dj.json"
     },
 
-{"name": "动漫天地❤天天开�?","url":"https://www.yingm.cc/dm/dm.json"},
+{"name": "动漫天地❤天天开心","url":"https://www.yingm.cc/dm/dm.json"},
 
 {"name": "🚀KK线路1","url":"http://vip.56jm.cn/dwz/KK_01"},
 {"name": "🚀KK线路2","url":"http://vip.56jm.cn/dwz/KK_02"},
@@ -260,6 +260,6 @@
 //{"name":"线路7","url":"http://vip.56jm.cn/tvbox/jinzhifanmai/jinzhifanmai.json"}, //禁止贩卖-20240609网络收集
 
 
-{"name":"✨祝大家开开心心每一天✨","url":"http://www.饭太�?.com/tv"}
+{"name":"✨祝大家开开心心每一天✨","url":"http://www.饭太硬.com/tv"}
 
 ]}
