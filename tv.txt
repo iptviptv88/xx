@@ -20,8 +20,7 @@
 新澳,https://play666.macau-lhc.live/live/mosixmark.flv
 老澳,https://vdm6-hw.qunleniuniu.com/live/2032-2.flv
 老澳,https://vdm6-ali.hrypl168.com/live/a6.flv
-阅兵装备详解,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8bc3d97bc5b9e4f037001991f54f4f9_258.mp4
-朝鲜视角中国阅兵,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8be81aabc2e7a4f03700199282ce8e4_258.mp4
+
 广东卫视,http://183.236.43.98:4111/udp/239.77.1.19:5146
 广东卫视,http://183.236.43.98:4111/udp/239.77.1.152:5146
 广东卫视,http://183.236.43.98:4111/udp/239.77.0.166:5146
@@ -116,8 +115,24 @@ HZTV-2,http://183.236.43.98:4111/udp/239.77.1.233:5146
 广东少儿,http://tvtj1.jxwltx.com:8003/live1570.m3u8
 嘉佳卡通,http://tvtj1.jxwltx.com:8003/live1328.m3u8
 优漫卡通,http://tvtj1.jxwltx.com:8003/custom11.m3u8
+
+
 广东影视,http://m.061899.xyz/mg/gdys
 广东湾区,http://m.061899.xyz/mg/dwqws
+
+
+广东珠江,http://rihou.cc:555/tv/[At|]广东珠江
+广东新闻,http://rihou.cc:555/tv/[At|]广东新闻
+广东民生,http://rihou.cc:555/tv/[At|]广东民生
+广东体育,http://rihou.cc:555/tv/[At|]广东体育
+广东湾区,http://rihou.cc:555/tv/[At|]广东湾区
+广东影视,http://rihou.cc:555/tv/[At|]广东影视
+广东珠江,http://rihou.cc:555/tv/[Cx]广东珠江
+广东体育,http://rihou.cc:555/tv/[Cx]广东体育
+广州综合,http://rihou.cc:555/tv/[Cx]广州综合
+广州新闻,http://rihou.cc:555/tv/[Cx]广州新闻
+广州南国,http://rihou.cc:555/tv/[Cx]广州南国
+
 
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
@@ -2598,27 +2613,6 @@ Now爆谷粤赏,http://rihou.cc:555/tv/[Bx]Now爆谷
 邵氏动作,http://rihou.cc:555/tv/[FY]邵氏动作
 邵氏喜剧,http://rihou.cc:555/tv/[FY]邵氏喜剧
 
-测试1,#genre#
-广东珠江,http://rihou.cc:555/tv/[AtI]广东珠江
-广东新闻,http://rihou.cc:555/tv/[AtI]广东新闻
-广东民生,http://rihou.cc:555/tv/[AtI]广东民生
-广东体育,http://rihou.cc:555/tv/[AtI]广东体育
-广东湾区,http://rihou.cc:555/tv/[AtI]广东湾区
-广东影视,http://rihou.cc:555/tv/[AtI]广东影视
-广东经济,http://rihou.cc:555/tv/[AtI]广东经济
-广东少儿,http://rihou.cc:555/tv/[AtI]广东少儿
-广东卫视,http://rihou.cc:555/tv/[AtI]广东卫视
-广东珠江,http://rihou.cc:555/tv/[At|]广东珠江
-广东新闻,http://rihou.cc:555/tv/[At|]广东新闻
-广东民生,http://rihou.cc:555/tv/[At|]广东民生
-广东体育,http://rihou.cc:555/tv/[At|]广东体育
-广东湾区,http://rihou.cc:555/tv/[At|]广东湾区
-广东影视,http://rihou.cc:555/tv/[At|]广东影视
-广东珠江,http://rihou.cc:555/tv/[Cx]广东珠江
-广东体育,http://rihou.cc:555/tv/[Cx]广东体育
-广州综合,http://rihou.cc:555/tv/[Cx]广州综合
-广州新闻,http://rihou.cc:555/tv/[Cx]广州新闻
-广州南国,http://rihou.cc:555/tv/[Cx]广州南国
 
 温馨提醒,#genre#
 不要相信视频广告,file:///storage/emulated/0/1.mp4
