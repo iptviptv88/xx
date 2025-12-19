@@ -4,14 +4,49 @@
   "logo": "https://gitee.com/tianwikeji/qxzj/raw/master/jiaoyu.gif",
  // "warningText": "【小新智教】声明：资源来自网络，所有内容仅供学习使用",
   "sites": [
-    {
-      "key": "Bili2",
-      "name": "🌟小新智教┃趣学🌟",
+ //     {
+  //      "key": "Bili2",
+   //     "name": "🌟小新智教┃趣学🌟",
+    //    "type": 3,
+     //   "api": "csp_Bili2",
+    //    "jar": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/qx.jar",
+      //  "searchable": 0,
+     //   "ext": "./jiaoyu2.json"
+   //   },
+  {
+      "key": "hipy_js_贝乐虎[儿]",
+      "name": "🌟贝乐虎🌟",
       "type": 3,
-      "api": "csp_Bili2",
-      "jar": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/qx.jar",
+      "api": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/贝乐虎[儿].js"
+    },
+ {
+      "key": "儿童",
+      "name": "🌟启蒙┃教育🌟",
+      "type": 3,
+      "api": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/drpy2.min.js",
       "searchable": 0,
-      "ext": "./jiaoyu2.json"
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/兔小贝.js"
+    },
+   {
+      "key": "学习园地",
+      "name": "🌟各版┃课程🌟",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/Blixt.json"
     },
     {
       "key": "小灯塔国学",
@@ -53,17 +88,7 @@
       "filterable": 1,
       "ext": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/小灯塔百科.json"
     },
-    {
-      "key": "hipy_js_贝乐虎[儿]",
-      "name": "🌟儿歌┃儿童🌟",
-      "type": 3,
-      "api": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/贝乐虎[儿].js"
-    },
+  
     {
       "key": "csp_Bili幼儿",
       "name": "🌟幼儿┃乐园🌟",
@@ -155,20 +180,7 @@
       "ext": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/兴趣培养.json",
       "jar": ""
     },
-    {
-      "key": "儿童",
-      "name": "🌟启蒙┃教育🌟",
-      "type": 3,
-      "api": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/兔小贝.js"
-    },
+   
     {
       "key": "少儿",
       "name": "🌟学前┃教育🌟",
@@ -182,16 +194,6 @@
         "ratio": 1.597
       },
       "ext": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/少儿教育.json"
-    },
-    {
-      "key": "学习园地",
-      "name": "🌟各版┃课程🌟",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/Blixt.json"
     },
     {
       "key": "meowtv_xxkt",
@@ -274,15 +276,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=mgdh"
-    },
-    {
-      "key": "push_agent",
-      "name": "小新教育",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "playerType": "1",
-      "searchable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     }
   ],
   "parses": [
