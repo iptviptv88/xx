@@ -13,22 +13,12 @@
       //  "searchable": 0,
      //   "ext": "./jiaoyu2.json"
    //   },
-  {
-      "key": "hipy_js_贝乐虎[儿]",
-      "name": "🌟贝乐虎🌟",
-      "type": 3,
-    "jar": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/qx.jar",
-      "api": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/贝乐虎[儿].js"
-    },
+ 
  {
       "key": "儿童",
       "name": "🌟启蒙┃教育🌟",
       "type": 3,
+    "jar": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/qx.jar",
       "api": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
@@ -48,6 +38,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/Blixt.json"
+    },
+     {
+      "key": "hipy_js_贝乐虎[儿]",
+      "name": "🌟贝乐虎🌟",
+      "type": 3,
+      "api": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gitee.com/tianwikeji/qxzj/raw/master/lib/贝乐虎[儿].js"
     },
     {
       "key": "小灯塔国学",
