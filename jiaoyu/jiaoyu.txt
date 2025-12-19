@@ -1,5 +1,5 @@
 {"urls":[
-{"name": "🌠教育线路2","url":"https://raw.githubusercontent.com/iptviptv88/xx/refs/heads/main/jiaoyu/jiaoyu1.json"},
+{"name": "🌠教育线路","url":"https://raw.githubusercontent.com/iptviptv88/xx/refs/heads/main/jiaoyu/jiaoyu1.json"},
 {"name": "🌠潮剧线路","url":"https://gitee.com/xiaoxinyingshi/xiaoxin/raw/master/chaoju/chaoju.json"},
 {"name": "🚀影视线路","url":"https://raw.githubusercontent.com/iptviptv88/xx/refs/heads/main/xianlu.txt"}
 ]}
