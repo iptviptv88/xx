@@ -1,7 +1,7 @@
 {
-  "spider": "./TG.jar",
+  "spider": "assets://js/api/TG.jar",
   "wallpaper": "荧屏流光曲悠扬，心随律动梦徜徉",
-  "logo": "./java/logo.jpg",
+  "logo": "assets://js/api/java/logo.jpg",
   "sites": [
     {
       "key": "DG音乐仓",
@@ -9,17 +9,17 @@
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
-      "jar": "./lib/fty.jar",
+      "jar": "assets://js/api/lib/fty.jar",
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./lib/ych.txt"
+      "ext": "assets://js/api/lib/ych.txt"
     },
     {
       "key": "演唱会",
       "name": "💛小新|演唱会",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./lib/fty.jar",
+      "jar": "assets://js/api/lib/fty.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -27,7 +27,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/演唱会.txt"
+      "ext": "assets://js/api/lib/演唱会.txt"
     },
     {
       "key": "哔哩",
@@ -37,14 +37,14 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./lib/哔哩MTV.json"
+      "ext": "assets://js/api/lib/哔哩MTV.json"
     },
     {
       "key": "csp_Kugou",
       "name": "TG-酷狗音乐",
       "type": 3,
       "api": "csp_Kugou",
-      "jar": "./lib/Yoursmile.jar",
+      "jar": "assets://js/api/lib/Yoursmile.jar",
       "playerType": 2,
       "ext": {
         "classes": [
@@ -59,11 +59,11 @@
       "key": "js_车载MV",
       "name": "TG-车载音乐",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "assets://js/api/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/车载MV.js"
+      "ext": "assets://js/api/lib/车载MV.js"
     },
     {
       "key": "yinyue",
@@ -86,25 +86,25 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./lib/yinyue.json"
+      "ext": "assets://js/api/lib/yinyue.json"
     },
     {
       "key": "hipy_js_KTV歌厅[听]",
       "name": "TG-明星歌厅",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "assets://js/api/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/KTV歌厅.js"
+      "ext": "assets://js/api/lib/KTV歌厅.js"
     },
     {
       "key": "TAOIktv",
       "name": "TG-明星备用",
       "type": 3,
       "api": "csp_WexIktv",
-      "jar": "./lib/wex.txt",
+      "jar": "assets://js/api/lib/wex.txt",
       "searchable": 1,
       "changeable": 0
     },
@@ -116,7 +116,7 @@
       "searchable": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./lib/吾爱舞蹈.json"
+      "ext": "assets://js/api/lib/吾爱舞蹈.json"
     },
     {
       "key": "哟哟音乐",
@@ -126,14 +126,14 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./lib/DJyyyyw.json"
+      "ext": "assets://js/api/lib/DJyyyyw.json"
     },
     {
       "key": "酷奇",
       "name": "TG-酷奇MV",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/酷奇MV.js",
+      "api": "assets://js/api/lib/drpy2.min.js",
+      "ext": "assets://js/api/lib/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -150,44 +150,44 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/吾爱演唱会.json"
+      "ext": "assets://js/api/lib/吾爱演唱会.json"
     },
     {
       "key": "直播转点播",
       "name": "TG-音乐点播",
       "type": 3,
-      "api": "./lib/zbzdb.js",
+      "api": "assets://js/api/lib/zbzdb.js",
       "ext": "http://www.jielifan.com/data/f_85446651.png"
     },
     {
       "key": "drpy_js_蜻蜓FM",
       "name": "TG-蜻蜓FM",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/蜻蜓FM.js",
+      "api": "assets://js/api/lib/drpy2.min.js",
+      "ext": "assets://js/api/lib/蜻蜓FM.js",
       "playerType": "2"
     },
     {
       "key": "hipy_js_种子音乐[听]",
       "name": "TG-种子音乐",
       "type": 3,
-      "api": "./lib/drpy3.min.js",
+      "api": "assets://js/api/lib/drpy3.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/种子音乐[听].js"
+      "ext": "assets://js/api/lib/种子音乐[听].js"
     },
     {
       "key": "hipy_js_贝乐虎[儿]",
       "name": "TG-贝乐儿歌",
       "type": 3,
-      "api": "./lib/drpy3.min.js",
+      "api": "assets://js/api/lib/drpy3.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/贝乐虎[儿].js"
+      "ext": "assets://js/api/lib/贝乐虎[儿].js"
     },
     {
       "key": "健身瑜伽",
@@ -197,7 +197,7 @@
       "searchable": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./lib/哔哩合集2.json"
+      "ext": "assets://js/api/lib/哔哩合集2.json"
     }
   ],
   "lives": [
@@ -205,7 +205,7 @@
       "name": "TGlive",
       "type": 0,
       "playerType": 2,
-      "url": "./java/lib/yinyue.png"
+      "url": "assets://js/api/java/lib/yinyue.png"
     }
   ]
 }
