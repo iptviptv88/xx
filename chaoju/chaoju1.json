@@ -1,5 +1,5 @@
 {
-  "spider": "./ttkx.jar",
+  "spider": "https://gitee.com/xiaoxinyingshi/xiaoxin/raw/master/chaoju/ttkx.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "logo": "http://php.540734621.xyz/logo/logo.php",
    "lives": [
@@ -22,7 +22,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Blixq.json"
+      "ext": "https://gitee.com/xiaoxinyingshi/xiaoxin/raw/master/chaoju/Blixq.json"
     }
   ],
   "parses": [
