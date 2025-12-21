@@ -2,10 +2,6 @@
 "classes": [
 
     {
-      "type_name": "超清潮剧",
-      "type_id": "超清潮剧超清"
-    },
-    {
       "type_name": "潮剧",
       "type_id": "潮剧超清"
     },
@@ -180,6 +176,10 @@
     {
       "type_name": "吉剧",
       "type_id": "吉剧超清"
+    },
+    {
+      "type_name": "超清潮剧",
+      "type_id": "超清潮剧超清"
     },
     {
       "type_name": "高腔",
