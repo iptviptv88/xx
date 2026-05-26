@@ -1,292 +1,265 @@
-{
-    "urls": [
-        {
-            "name": "?Ğ¡ĞÂÏßÂ·",
-            "url": "https://codeberg.org/IPTVIPTV/IPTV/raw/branch/main/ÇÉ¼Ç.txt"
-        },
-        {
-            "name": "?OKÏßÂ·",
-            "url": "http://ok321.top/ok"
-        },
-        {
-            "name": "??ÇÉ¼¼ÏßÂ·",
-            "url": "http://cdn.qiaoji8.com/tvbox.json"
-        },
-        {
-            "name": "?ºĞ×ÓÃÔ",
-            "url": "https://ºĞ×ÓÃÔ.top/½ûÖ¹··Âô"
-        },
-        {
-            "name": "?·ÊÃ¨ÏßÂ·",
-            "url": "http://·ÊÃ¨.com"
-        },
-        {
-            "name": "?¶¾ºĞÓ°ÊÓ",
-            "url": "https://tv.youdu.fan:666/¶¾ºĞÓ°ÊÓ/"
-        },
-        {
-            "url": "http://mdxgh.top:5555/mdxkj.json",
-            "name": "?¿Æ¼¼Ó°Ïß"
-        },
-        {
-            "url": "http://mdxgh.top:9999/mdxkj.json",
-            "name": "?ÂëµãÓ°Ïß"
-        },
-        {
-            "url": "https://git.acwing.com/zone/box/-/raw/main/box.json",
-            "name": "?ÍøÅÌÏßÂ·"
-        },
-        {
-            "url": "http://mdxgh.top:5555/mdxgho.json",
-            "name": "?ÂëµãÏßÂ·"
-        },
-        {
-            "url": "https://7337.kstore.space/kjtv/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json",
-            "name": "?ÌìÎ¢Ó°Ïß"
-        },
-        {
-            "url": "https://11256.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json",
-            "name": "?ÆßĞÇÓ°²Ö"
-        },
-        {
-            "url": "https://zthaa.top/thzx/th.json",
-            "name": "?¹«ÖÚºÅØ­Í¦ºÃ×¨Ïí"
-        },
-        {
-            "url": "https://zthaa.top/th/api.json",
-            "name": "?¹«ÖÚºÅØ­Í¦ºÃ·ÖÏí"
-        },
-        {
-            "url": "http://tv.nxog.top/m",
-            "name": "?Í¦ºÃØ­Ú©¸èÏßÂ·"
-        },
-        {
-            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin",
-            "name": "?¶à¶àÍøÅÌ"
-        },
-        {
-            "url": "http://www.·¹Ì«Ó².com/tv",
-            "name": "?·¹Ó²×¨Ïß"
-        },
-        {
-            "url": "http://tv.laohu.cool/tvbox.json",
-            "name": "?ÀÏ»¢ÏßÂ·"
-        },
-        {
-            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-            "name": "?OneÏßÂ·"
-        },
-        {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-            "name": "?ÄÏ·çÏßÂ·"
-        },
-        {
-            "url": "https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json",
-            "name": "?ÁõÎ°ÏßÂ·"
-        },
-        {
-            "url": "https://git.acwing.com/lkq0379/zjys/-/raw/main/zjys.json",
-            "name": "?¼ôÓ°ÏßÂ·"
-        },
-        {
-            "url": "http://tv.nxog.top/m/111.php?ou=¹«ÖÚºÅÅ·¸è",
-            "name": "?Ú©¸èÏßÂ·"
-        },
-        {
-            "name": "?Ğ¡»¢°ßÏß",
-            "url": "https://hb.xyyh.online/tvbox"
-        },
-        {
-            "url": "http://www.mpanso.com/Ğ¡Ã×/DEMO.json",
-            "name": "?Ğ¡Ã×ÏßÂ·"
-        },
-        {
-            "url": "http://tvbox.Íõ¶şĞ¡·ÅÅ£ÍŞ.top",
-            "name": "?Íõ¶şĞ¡Ïß"
-        },
-        {
-            "url": "https://9877.kstore.space/AnotherD/api.json",
-            "name": "?äìÈ÷×¨Ïß"
-        },
-        {
-            "url": "http://ÎÒ²»ÊÇ.ÃşÓã¶ù.com",
-            "name": "?ÃşÓãÏßÂ·"
-        },
-        {
-            "url": "https://6492.kstore.space/xnf/xnf.json",
-            "name": "?»·ÓîĞùÏß"
-        },
-        {
-            "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
-            "name": "?Ğ¡Æ»¹ûÏß"
-        },
-        {
-            "url": "http://fmys.top/fmys.json",
-            "name": "?æâÂíÏßÂ·"
-        },
-        {
-            "name": "?Ê°¹âÏßÂ·",
-            "url": "https://4708.kstore.space/svip/svip.json"
-        },
-        {
-            "url": "http://mzjk.top/½ûÖ¹··Âô",
-            "name": "?±¦ºĞÏßÂ·"
-        },
-        {
-            "url": "https://ztha.top/TVBox/thdjk.json",
-            "name": "?Í¦ºÃÏßÂ·"
-        },
-        {
-            "url": "http://·ÊÃ¨.com",
-            "name": "?·ÊÃ¨ÏßÂ·"
-        },
-        {
-            "name": "?Ğ¡ÂíÏßÂ·",
-            "url": "https://szyyds.cn/tv/x.json"
-        },
-        {
-            "url": "http://hucongrong.web3v.work/·çË®/fxz/fxz.json",
-            "name": "?·ÖÏíÕßÏß"
-        },
-        {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
-            "name": "?ÀÏÁõÏßÂ·"
-        },
-        {
-            "url": "https://chuanshuo.77blog.cn/tv.json",
-            "name": "?´«ËµÏßÂ·"
-        },
-        {
-            "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json",
-            "name": "?À¶ÌìÏßÂ·"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "?¸ßÌìÁ÷ÔÆ"
-        },
-        {
-            "url": "http://home.jundie.top:81/top98.json",
-            "name": "?¿¡ÀĞÏßÂ·"
-        },
-        {
-            "url": "https://xn--8owq8u.com/tv/",
-            "name": "?¶¾ºĞÏßÂ·"
-        },
-        {
-            "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
-            "name": "?ÇàÁúÓ°Ïß"
-        },
-        {
-            "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
-            "name": "?¶Ì¾ç´óÈ«"
-        },
-        {
-            "name": "?Ú©¸èÏßÂ·1",
-            "url": "https://xn--9hh9-wn6lw489o.v.nxog.top/m"
-        },
-        {
-            "name": "?Å·¸è±¸1",
-            "url": "http://vip.56jm.cn/dwz/ouge_b1"
-        },
-        {
-            "name": "?Å·¸è±¸2",
-            "url": "http://vip.56jm.cn/dwz/ouge_b2"
-        },
-        {
-            "name": "?Å·¸è±¸3",
-            "url": "http://vip.56jm.cn/dwz/ouge_b3"
-        },
-        {
-            "name": "?²»Á¼Ë§ÏßÂ·",
-            "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json"
-        },
-        {
-            "name": "¶¯ÂşÌìµØ?ÌìÌì¿ªĞÄ",
-            "url": "https://www.yingm.cc/dm/dm.json"
-        },
-        {
-            "name": "?KKÏßÂ·1",
-            "url": "http://vip.56jm.cn/dwz/KK_01"
-        },
-        {
-            "name": "?KKÏßÂ·2",
-            "url": "http://vip.56jm.cn/dwz/KK_02"
-        },
-        {
-            "name": "?KKÏßÂ·3",
-            "url": "http://vip.56jm.cn/dwz/KK_03"
-        },
-        {
-            "name": "?KKÏßÂ·4",
-            "url": "http://vip.56jm.cn/dwz/KK_04"
-        },
-        {
-            "name": "?KKÏßÂ·5",
-            "url": "http://vip.56jm.cn/dwz/KK_05"
-        },
-        {
-            "name": "ÏßÂ·1",
-            "url": "https://weixine.net/ysc.json"
-        },
-        {
-            "name": "ÏßÂ·2",
-            "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"
-        },
-        {
-            "name": "ÏßÂ·3",
-            "url": "https://raw.liucn.cc/box/m.json"
-        },
-        {
-            "name": "ÏßÂ·4",
-            "url": "https://pastebin.com/raw/yMNq26ND"
-        },
-        {
-            "name": "ÏßÂ·5",
-            "url": "https://pastebin.com/raw/sbPpDm9G"
-        },
-        {
-            "name": "ÏßÂ·6",
-            "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/ÅäÖÃ/0801.json"
-        },
-        {
-            "name": "ÏßÂ·7",
-            "url": "https://notabug.org/69/m/raw/master/m.json"
-        },
-        {
-            "name": "ÏßÂ·11",
-            "url": "https://9xi4o.tk/0725.json"
-        },
-        {
-            "name": "ÏßÂ·13",
-            "url": "http://xhztv.top/4k.json"
-        },
-        {
-            "name": "ÏßÂ·14",
-            "url": "http://pandown.pro/tvbox/tvbox.json"
-        },
-        {
-            "name": "ÏßÂ·17",
-            "url": "https://raw.kkgithub.com/ysztcn/ysztcn.github.io/master/tvbox/config.json"
-        },
-        {
-            "name": "ÏßÂ·18",
-            "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
-        },
-        {
-            "name": "ÏßÂ·19",
-            "url": "https://raw.kkgithub.com/liu673cn/fm/main/m.json"
-        },
-        {
-            "name": "ÏßÂ·21",
-            "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/0825.json"
-        },
-        {
-            "name": "ÏßÂ·23",
-            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz"
-        },
-        {
-            "name": "ÏßÂ·24",
-            "url": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/index.json"
-        }
-    ]
-}
+{"urls":[
+{"name": "ğŸš€å°æ–°çº¿è·¯","url":"https://raw.githubusercontent.com/iptviptv88/xx/refs/heads/main/xianlu.txt"},
+{"name": "ğŸš€OKçº¿è·¯","url":"http://ok321.top/ok"},
+{"name":"ğŸ„ï¸å·§æŠ€çº¿è·¯","url":"http://cdn.qiaoji8.com/tvbox.json"}, 
+
+//{"name": "ğŸš€é¥­å¤ªç¡¬","url":"http://www.é¥­å¤ªç¡¬.com/tv"},
+{"name": "ğŸš€ç›’å­è¿·","url":"https://ç›’å­è¿·.top/ç¦æ­¢è´©å–"},
+{"name": "ğŸš€è‚¥çŒ«çº¿è·¯","url":"http://è‚¥çŒ«.com"},
+{"name":"ğŸ’æ‘¸é±¼çº¿è·¯","url":"http://æˆ‘ä¸æ˜¯.æ‘¸é±¼å„¿.com"}, 
+{"name":"ğŸš€æ¯’ç›’å½±è§†","url":"https://tv.youdu.fan:666/æ¯’ç›’å½±è§†/"}, 
+{"name": "ğŸš€Luckè‡ªå»º","url":"https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json"},
+
+
+    {
+      "url": "http://mdxgh.top:5555/mdxkj.json",
+      "name": "ğŸš€ç§‘æŠ€å½±çº¿"
+    },
+    {
+      "url": "http://mdxgh.top:9999/mdxkj.json",
+      "name": "ğŸš€ç ç‚¹å½±çº¿"
+    },
+    {
+      "url": "https://git.acwing.com/zone/box/-/raw/main/box.json",
+      "name": "ğŸš€ç½‘ç›˜çº¿è·¯"
+    },
+    {
+      "url": "http://mdxgh.top:5555/mdxgho.json",
+      "name": "ğŸš€ç ç‚¹çº¿è·¯"
+    },
+    {
+      "url": "https://7337.kstore.space/kjtv/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json",
+      "name": "ğŸš€å¤©å¾®å½±çº¿"
+    },
+    {
+      "url": "https://11256.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json",
+      "name": "ğŸš€ä¸ƒæ˜Ÿå½±ä»“"
+    },
+
+
+
+    {
+      "url": "https://zthaa.top/thzx/th.json",
+      "name": "ğŸŒ å…¬ä¼—å·ä¸¨æŒºå¥½ä¸“äº«"
+    },
+    {
+      "url": "https://zthaa.top/th/api.json",
+      "name": "ğŸ“›å…¬ä¼—å·ä¸¨æŒºå¥½åˆ†äº«"
+    },      
+    {
+      "url": "http://tv.nxog.top/m",
+      "name": "ğŸ³æŒºå¥½ä¸¨è®´æ­Œçº¿è·¯"
+    },
+    {
+       "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin",
+       "name": "ğŸ’å¤šå¤šç½‘ç›˜"
+    }, 
+    {
+      "url": "http://www.é¥­å¤ªç¡¬.com/tv",
+      "name": "ğŸ¨é¥­ç¡¬ä¸“çº¿"
+    },    
+    {
+      "url": "http://tv.laohu.cool/tvbox.json",
+      "name": "ğŸ¯è€è™çº¿è·¯"
+    },
+    {
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+      "name": "ğŸš€Oneçº¿è·¯"
+    },
+
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "name": "ğŸš€å—é£çº¿è·¯"
+    },
+    {
+      "url": "https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json",
+      "name": "ğŸš€åˆ˜ä¼Ÿçº¿è·¯"
+    },
+    
+        {
+      "url": "https://git.acwing.com/lkq0379/zjys/-/raw/main/zjys.json",
+      "name": "ğŸš€å‰ªå½±çº¿è·¯"
+    },
+
+    {
+      "url": "http://tv.nxog.top/m/111.php?ou=å…¬ä¼—å·æ¬§æ­Œ",
+      "name": "ğŸš€è®´æ­Œçº¿è·¯"
+    },
+   {
+      "name": "ğŸš€å°è™æ–‘çº¿",
+      "url": "https://hb.xyyh.online/tvbox"
+    },
+
+    {
+      "url": "http://www.mpanso.com/å°ç±³/DEMO.json",
+      "name": "ğŸš€å°ç±³çº¿è·¯"
+    },
+    {
+      "url": "http://tvbox.ç‹äºŒå°æ”¾ç‰›å¨ƒ.top",
+      "name": "ğŸš€ç‹äºŒå°çº¿"
+    },
+        {
+      "url": "https://9877.kstore.space/AnotherD/api.json",
+      "name": "ğŸš€æ½‡æ´’ä¸“çº¿"
+    },
+    {
+      "url": "http://æˆ‘ä¸æ˜¯.æ‘¸é±¼å„¿.com",
+      "name": "ğŸš€æ‘¸é±¼çº¿è·¯"
+    },
+    {
+      "url": "https://6492.kstore.space/xnf/xnf.json",
+      "name": "ğŸš€ç¯å®‡è½©çº¿"
+    },
+        {
+      "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+      "name": "ğŸš€å°è‹¹æœçº¿"
+    },
+    {
+      "url": "http://fmys.top/fmys.json",
+      "name": "ğŸš€é©¸é©¬çº¿è·¯"
+    },
+    {
+      "name": "ğŸš€æ‹¾å…‰çº¿è·¯",
+      "url": "https://4708.kstore.space/svip/svip.json"
+    },
+    {
+      "url": "http://mzjk.top/ç¦æ­¢è´©å–",
+      "name": "ğŸš€å®ç›’çº¿è·¯"
+    },
+        {
+      "url": "https://ztha.top/TVBox/thdjk.json",
+      "name": "ğŸš€æŒºå¥½çº¿è·¯"
+    },
+    {
+      "url": "http://è‚¥çŒ«.com",
+      "name": "ğŸš€è‚¥çŒ«çº¿è·¯"
+    },
+       {
+      "name": "ğŸš€å°é©¬çº¿è·¯",
+      "url": "https://szyyds.cn/tv/x.json"
+    },
+    {
+      "name": "ğŸš€ä¿Šä½¬åœ¨çº¿",
+      "url": "http://home.jundie.top:81/top98.json"
+    },
+    {
+      "url": "http://hucongrong.web3v.work/é£æ°´/fxz/fxz.json",
+      "name": "ğŸš€åˆ†äº«è€…çº¿"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+      "name": "ğŸš€è€åˆ˜çº¿è·¯"
+    },
+            {
+      "url": "https://chuanshuo.77blog.cn/tv.json",
+      "name": "ğŸš€ä¼ è¯´çº¿è·¯"
+    },
+        {
+      "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json",
+      "name": "ğŸš€è“å¤©çº¿è·¯"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "name": "ğŸš€é«˜å¤©æµäº‘"
+    },
+    {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "ğŸš€ä¿Šä½¬çº¿è·¯"
+    },
+
+    {
+      "url": "https://xn--8owq8u.com/tv/",
+      "name": "ğŸš€æ¯’ç›’çº¿è·¯"
+    },
+
+    {
+      "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
+      "name": "ğŸš€é’é¾™å½±çº¿"
+    },
+    {
+      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+      "name": "ğŸš€çŸ­å‰§å¤§å…¨"
+    },
+
+{"name": "ğŸš€è®´æ­Œçº¿è·¯","url":"https://xn--9hh9-wn6lw489o.v.nxog.top/m"},
+{"name": "ğŸš€æ¬§æ­Œ1","url":"http://vip.56jm.cn/dwz/ouge_b1"},
+{"name": "ğŸš€æ¬§æ­Œ2","url":"http://vip.56jm.cn/dwz/ouge_b2"},
+{"name": "ğŸš€æ¬§æ­Œ3","url":"http://vip.56jm.cn/dwz/ouge_b3"},
+//{"name": "ğŸš€æ¬§æ­Œçº¿è·¯","url":"http://tv.nxog.top/"},
+
+//{"name": "ğŸš€æ¬§æ­Œçº¿è·¯2","url":"https://2.nxog.eu.org/m/111.php?ou=å…¬ä¼—å·æ¬§æ­Œapp&mz=index&jar=index&123&b=tv"},
+//{"name": "ğŸš€æ¬§æ­Œçº¿è·¯3","url":"http://2.a.xn--dkw.xn--6qq986b3xl/m/111.php?ou=å…¬ä¼—å·æ¬§æ­Œapp&mz=index&jar=index&123&b=tv"},
+
+
+
+
+//{"name": "ğŸ˜˜çŸ­å‰§çº¿è·¯","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"},
+
+{"name":"ğŸ’ä¸è‰¯å¸…çº¿è·¯","url":"https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json"}, 
+{"name":"ğŸ’å°é©¬çº¿è·¯","url":"https://szyyds.cn/tv/x.json"}, 
+
+
+
+
+
+
+    {
+      "name": "ğŸ¥—|çŸ­å‰§åˆé›†ğŸ¥—",
+      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json"
+    },
+
+{"name": "åŠ¨æ¼«å¤©åœ°â¤å¤©å¤©å¼€å¿ƒ","url":"https://www.yingm.cc/dm/dm.json"},
+
+{"name": "ğŸš€KKçº¿è·¯1","url":"http://vip.56jm.cn/dwz/KK_01"},
+{"name": "ğŸš€KKçº¿è·¯2","url":"http://vip.56jm.cn/dwz/KK_02"},
+{"name": "ğŸš€KKçº¿è·¯3","url":"http://vip.56jm.cn/dwz/KK_03"},
+{"name": "ğŸš€KKçº¿è·¯4","url":"http://vip.56jm.cn/dwz/KK_04"},
+{"name": "ğŸš€KKçº¿è·¯5","url":"http://vip.56jm.cn/dwz/KK_05"},
+
+{"name":"çº¿è·¯1","url":"https://weixine.net/ysc.json"}, 
+{"name":"çº¿è·¯2","url":"https://szyyds.cn/tv/x.json"}, 
+{"name":"çº¿è·¯3","url":"https://raw.liucn.cc/box/m.json"}, 
+{"name":"çº¿è·¯4","url":"https://pastebin.com/raw/yMNq26ND"}, 
+{"name":"çº¿è·¯5","url":"https://pastebin.com/raw/sbPpDm9G"}, 
+{"name":"çº¿è·¯6","url":"https://notabug.org/imbig66/tv-spider-man/raw/master/é…ç½®/0801.json"}, 
+{"name":"çº¿è·¯7","url":"https://notabug.org/69/m/raw/master/m.json"}, 
+{"name":"çº¿è·¯8","url":"https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json"}, 
+{"name":"çº¿è·¯9","url":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"}, 
+{"name":"çº¿è·¯10","url":"https://bitbucket.org/xduo/duoapi/raw/master/xpg.json"}, 
+{"name":"çº¿è·¯11","url":"https://9xi4o.tk/0725.json"}, 
+{"name":"çº¿è·¯12","url":"http://è‚¥çŒ«.com/"}, 
+{"name":"çº¿è·¯13","url":"http://xhztv.top/4k.json"}, 
+{"name":"çº¿è·¯14","url":"http://pandown.pro/tvbox/tvbox.json"}, 
+{"name":"çº¿è·¯15","url":"http://home.jundie.top:81/top98.json"}, 
+{"name":"çº¿è·¯16","url":"http://cdn.qiaoji8.com/tvbox.json"}, 
+{"name":"çº¿è·¯17","url":"https://raw.kkgithub.com/ysztcn/ysztcn.github.io/master/tvbox/config.json"}, 
+{"name":"çº¿è·¯18","url":"https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"}, 
+{"name":"çº¿è·¯19","url":"https://raw.kkgithub.com/liu673cn/fm/main/m.json"}, 
+{"name":"çº¿è·¯20","url":"https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json"}, 
+{"name":"çº¿è·¯21","url":"https://raw.kkgithub.com/gaotianliuyun/gao/master/0825.json"}, 
+{"name":"çº¿è·¯22","url":"https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8"}, 
+{"name":"çº¿è·¯23","url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymz"}, 
+{"name":"çº¿è·¯24","url":"https://cdn.gitmirror.com/gl/duomv/dzhipy/main/index.json"}, 
+
+
+
+
+
+
+
+
+
+
+
+//{"name":"çº¿è·¯1","url":"http://vip.56jm.cn/tvbox/vip/vip.json"},  //é•¿æœŸç»´æŠ¤ //callyæ»¡â‘ 
+//{"name":"çº¿è·¯2","url":"http://vip.56jm.cn/tvbox/tiantiankaixin/ttkx.json"}, //â‚¸Vç«ç‚¬ä»“_5.0.16_2
+//{"name":"çº¿è·¯3","url":"http://vip.56jm.cn/tvbox/qixing_svip/svip.json"}, //ä¸ƒæ˜ŸCatBox_240417_å†…å¤–åŒçœŸå†…ç½®
+//{"name":"çº¿è·¯4","url":"http://vip.56jm.cn/tvbox/yunshuche/ysc.json"}, //è¿è¾“è½¦_20240425
+//{"name":"çº¿è·¯5","url":"http://vip.56jm.cn/tvbox/shiguang-omg/omg.json"}, //æ‹¾å…‰çº¿è·¯-20240520æ”¶é›†
+//{"name":"çº¿è·¯6","url":"http://vip.56jm.cn/tvbox/gg/gg.json"}, // 20240609ç½‘ç»œæ”¶é›†
+//{"name":"çº¿è·¯7","url":"http://vip.56jm.cn/tvbox/jinzhifanmai/jinzhifanmai.json"}, //ç¦æ­¢è´©å–-20240609ç½‘ç»œæ”¶é›†
+
+
+{"name":"âœ¨ç¥å¤§å®¶å¼€å¼€å¿ƒå¿ƒæ¯ä¸€å¤©âœ¨","url":"http://www.é¥­å¤ªç¡¬.com/tv"}
+
+]}
