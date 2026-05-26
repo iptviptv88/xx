@@ -1,14 +1,14 @@
 {"urls":[
-{"name": "🚀小新线路","url":"https://raw.githubusercontent.com/iptviptv88/xx/refs/heads/main/xianlu.txt"},
+{"name": "🚀小新线路","url":"https://codeberg.org/IPTVIPTV/IPTV/raw/branch/main/巧记.txt"},
 {"name": "🚀OK线路","url":"http://ok321.top/ok"},
 {"name":"🏄️巧技线路","url":"http://cdn.qiaoji8.com/tvbox.json"}, 
 
 //{"name": "🚀饭太硬","url":"http://www.饭太硬.com/tv"},
 {"name": "🚀盒子迷","url":"https://盒子迷.top/禁止贩卖"},
 {"name": "🚀肥猫线路","url":"http://肥猫.com"},
-{"name":"💎摸鱼线路","url":"http://我不是.摸鱼儿.com"}, 
+
 {"name":"🚀毒盒影视","url":"https://tv.youdu.fan:666/毒盒影视/"}, 
-{"name": "🚀Luck自建","url":"https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json"},
+
 
 
     {
@@ -138,10 +138,7 @@
       "name": "🚀小马线路",
       "url": "https://szyyds.cn/tv/x.json"
     },
-    {
-      "name": "🚀俊佬在线",
-      "url": "http://home.jundie.top:81/top98.json"
-    },
+
     {
       "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json",
       "name": "🚀分享者线"
@@ -181,32 +178,29 @@
       "name": "🚀短剧大全"
     },
 
-{"name": "🚀讴歌线路","url":"https://xn--9hh9-wn6lw489o.v.nxog.top/m"},
-{"name": "🚀欧歌1","url":"http://vip.56jm.cn/dwz/ouge_b1"},
-{"name": "🚀欧歌2","url":"http://vip.56jm.cn/dwz/ouge_b2"},
-{"name": "🚀欧歌3","url":"http://vip.56jm.cn/dwz/ouge_b3"},
-//{"name": "🚀欧歌线路","url":"http://tv.nxog.top/"},
+{"name": "🚀讴歌线路1","url":"https://xn--9hh9-wn6lw489o.v.nxog.top/m"},
+{"name": "🚀欧歌备1","url":"http://vip.56jm.cn/dwz/ouge_b1"},
+{"name": "🚀欧歌备2","url":"http://vip.56jm.cn/dwz/ouge_b2"},
+{"name": "🚀欧歌备3","url":"http://vip.56jm.cn/dwz/ouge_b3"},
+//{"name": "🚀欧歌线路2","url":"http://tv.nxog.top/"},
 
-//{"name": "🚀欧歌线路2","url":"https://2.nxog.eu.org/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv"},
-//{"name": "🚀欧歌线路3","url":"http://2.a.xn--dkw.xn--6qq986b3xl/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv"},
-
-
+//{"name": "🚀欧歌线路3","url":"https://2.nxog.eu.org/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv"},
+//{"name": "🚀欧歌线路4","url":"http://2.a.xn--dkw.xn--6qq986b3xl/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv"},
 
 
-//{"name": "😘短剧线路","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"},
+
+
+//{"name": "😘潇 洒","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"},
 
 {"name":"💎不良帅线路","url":"https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json"}, 
-{"name":"💎小马线路","url":"https://szyyds.cn/tv/x.json"}, 
 
 
 
 
 
 
-    {
-      "name": "🥗|短剧合集🥗",
-      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json"
-    },
+
+
 
 {"name": "动漫天地❤天天开心","url":"https://www.yingm.cc/dm/dm.json"},
 
@@ -217,49 +211,28 @@
 {"name": "🚀KK线路5","url":"http://vip.56jm.cn/dwz/KK_05"},
 
 {"name":"线路1","url":"https://weixine.net/ysc.json"}, 
-{"name":"线路2","url":"https://szyyds.cn/tv/x.json"}, 
+{"name":"线路2","url":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"}, 
 {"name":"线路3","url":"https://raw.liucn.cc/box/m.json"}, 
 {"name":"线路4","url":"https://pastebin.com/raw/yMNq26ND"}, 
 {"name":"线路5","url":"https://pastebin.com/raw/sbPpDm9G"}, 
 {"name":"线路6","url":"https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json"}, 
 {"name":"线路7","url":"https://notabug.org/69/m/raw/master/m.json"}, 
-{"name":"线路8","url":"https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json"}, 
-{"name":"线路9","url":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"}, 
-{"name":"线路10","url":"https://bitbucket.org/xduo/duoapi/raw/master/xpg.json"}, 
+
+
 {"name":"线路11","url":"https://9xi4o.tk/0725.json"}, 
-{"name":"线路12","url":"http://肥猫.com/"}, 
+
 {"name":"线路13","url":"http://xhztv.top/4k.json"}, 
 {"name":"线路14","url":"http://pandown.pro/tvbox/tvbox.json"}, 
-{"name":"线路15","url":"http://home.jundie.top:81/top98.json"}, 
-{"name":"线路16","url":"http://cdn.qiaoji8.com/tvbox.json"}, 
+
 {"name":"线路17","url":"https://raw.kkgithub.com/ysztcn/ysztcn.github.io/master/tvbox/config.json"}, 
 {"name":"线路18","url":"https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"}, 
 {"name":"线路19","url":"https://raw.kkgithub.com/liu673cn/fm/main/m.json"}, 
-{"name":"线路20","url":"https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json"}, 
+
 {"name":"线路21","url":"https://raw.kkgithub.com/gaotianliuyun/gao/master/0825.json"}, 
-{"name":"线路22","url":"https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8"}, 
+
 {"name":"线路23","url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymz"}, 
 {"name":"线路24","url":"https://cdn.gitmirror.com/gl/duomv/dzhipy/main/index.json"}, 
 
 
-
-
-
-
-
-
-
-
-
-//{"name":"线路1","url":"http://vip.56jm.cn/tvbox/vip/vip.json"},  //长期维护 //cally满①
-//{"name":"线路2","url":"http://vip.56jm.cn/tvbox/tiantiankaixin/ttkx.json"}, //₸V火炬仓_5.0.16_2
-//{"name":"线路3","url":"http://vip.56jm.cn/tvbox/qixing_svip/svip.json"}, //七星CatBox_240417_内外双真内置
-//{"name":"线路4","url":"http://vip.56jm.cn/tvbox/yunshuche/ysc.json"}, //运输车_20240425
-//{"name":"线路5","url":"http://vip.56jm.cn/tvbox/shiguang-omg/omg.json"}, //拾光线路-20240520收集
-//{"name":"线路6","url":"http://vip.56jm.cn/tvbox/gg/gg.json"}, // 20240609网络收集
-//{"name":"线路7","url":"http://vip.56jm.cn/tvbox/jinzhifanmai/jinzhifanmai.json"}, //禁止贩卖-20240609网络收集
-
-
-{"name":"✨祝大家开开心心每一天✨","url":"http://www.饭太硬.com/tv"}
 
 ]}
