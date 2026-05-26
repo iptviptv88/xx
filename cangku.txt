@@ -181,7 +181,7 @@
       "name": "🚀短剧大全"
     },
 
-{"name": "🚀讴歌线路","url":"https://xn--9hh9-wn6lw489o.v.nxog.top/m"},
+{"name": "🚀讴歌线路4","url":"https://xn--9hh9-wn6lw489o.v.nxog.top/m"},
 {"name": "🚀欧歌1","url":"http://vip.56jm.cn/dwz/ouge_b1"},
 {"name": "🚀欧歌2","url":"http://vip.56jm.cn/dwz/ouge_b2"},
 {"name": "🚀欧歌3","url":"http://vip.56jm.cn/dwz/ouge_b3"},
