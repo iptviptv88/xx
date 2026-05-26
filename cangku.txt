@@ -185,10 +185,10 @@
 {"name": "🚀欧歌1","url":"http://vip.56jm.cn/dwz/ouge_b1"},
 {"name": "🚀欧歌2","url":"http://vip.56jm.cn/dwz/ouge_b2"},
 {"name": "🚀欧歌3","url":"http://vip.56jm.cn/dwz/ouge_b3"},
-//{"name": "🚀欧歌线路","url":"http://tv.nxog.top/"},
+{"name": "🚀欧歌线路","url":"http://tv.nxog.top/"},
 
-//{"name": "🚀欧歌线路2","url":"https://2.nxog.eu.org/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv"},
-//{"name": "🚀欧歌线路3","url":"http://2.a.xn--dkw.xn--6qq986b3xl/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv"},
+{"name": "🚀欧歌线路2","url":"https://2.nxog.eu.org/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv"},
+{"name": "🚀欧歌线路3","url":"http://2.a.xn--dkw.xn--6qq986b3xl/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv"},
 
 
 
