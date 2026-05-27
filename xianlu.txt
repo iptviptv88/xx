@@ -1,6 +1,6 @@
 {
 
-"spider":"http://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar?id=index;md5;94cc7730ebec586a25a1179bc4b2754b",
+"spider": "https://ncstatic-file.clewm.net/rsrc/2026/0526/13/3c2fe19f3ae9dcf760356cb9e958ef48.jpg;md5;7c546ee0441d827c11541a81c5b98a7b",
 //"warningText":"小新影视提醒：“切勿相信视频广告”",
 
 
