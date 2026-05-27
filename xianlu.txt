@@ -31,23 +31,7 @@
 
 "sites": [
 
-{"key":"柠檬","name":"💡小新｜柠檬","type":3,"api":"csp_Nmvod","playerType":2,	"jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
 {"key":"热播影视","name":"💡小新｜热播","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
-
-{"key":"骚火影视","name":"💡骚火｜影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
-{"key":"三六零","name":"💡三六｜视频","type":3,"api":"csp_SP360"},  
-{"key":"金牌影视","name":"💡金牌｜影视","type":3,"api":"csp_Jpys","ext":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
-{"key":"1905","name":"💡1905｜影视","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
-
-//App
-{"key":"火狐","name":"👑火狐丨弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://huohu.yihn.cc","dataKey":"huohushipingetap","dataIv":"huohushipingetap","version":"140"}},
-
-{"key":"蔬菜","name":"👑蔬菜｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://huohu.yihn.cc","site":"","dataKey":"huohushipingetap","dataIv":"huohushipingetap","deviceId":"","version":"140","ua":""}},
-
-{"key":"八天","name":"👑八天丨弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://dy.8ttv.cn","site":"","dataKey":"1111111111111111","dataIv":"1111111111111111","deviceId":"","version":"","ua":""}},
-
-
-
     {
       "key": "豆瓣2",
       "name": "聚合搜索",
@@ -55,6 +39,20 @@
       "api": "csp_Douban",
       "searchable": 0
     },
+
+{"key":"柠檬","name":"💡小新｜柠檬","type":3,"api":"csp_Nmvod","playerType":2,	"jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
+
+
+{"key":"骚火影视","name":"💡骚火｜影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
+{"key":"三六零","name":"💡三六｜视频","type":3,"api":"csp_SP360"},  
+{"key":"金牌影视","name":"💡金牌｜影视","type":3,"api":"csp_Jpys","ext":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
+{"key":"1905","name":"💡1905｜影视","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
+
+
+
+
+
+
     {
       "key": "荐片",
       "name": "💡荐片｜影视",
@@ -123,6 +121,12 @@
         "ua": "okhttp/3.10.0"
       }
     },
+{"key":"火狐","name":"👑火狐丨弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://huohu.yihn.cc","dataKey":"huohushipingetap","dataIv":"huohushipingetap","version":"140"}},
+
+{"key":"蔬菜","name":"👑蔬菜｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://huohu.yihn.cc","site":"","dataKey":"huohushipingetap","dataIv":"huohushipingetap","deviceId":"","version":"140","ua":""}},
+
+{"key":"八天","name":"👑八天丨弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://dy.8ttv.cn","site":"","dataKey":"1111111111111111","dataIv":"1111111111111111","deviceId":"","version":"","ua":""}},
+
     {
       "key": "猎豹",
       "name": "👑猎豹｜影视",
