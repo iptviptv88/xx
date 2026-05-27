@@ -1,6 +1,6 @@
 {"urls":[
 {"name": "🚀小新线路","url":"https://raw.githubusercontent.com/iptviptv88/xx/refs/heads/main/xianlu.txt"},
-{"name": "🚀小新线路2","url":"https://raw.githubusercontent.com/iptviptv88/xx/refs/heads/main/xianlu2.txt"},
+{"name": "🚀小新备用","url":"https://raw.githubusercontent.com/iptviptv88/xx/refs/heads/main/xianlu2.txt"},
 {"name":"🏄️巧技线路","url":"http://cdn.qiaoji8.com/tvbox.json"}, 
 {"name": "🚀饭太硬","url":"http://www.饭太硬.com/tv"},
 {"name": "🚀盒子迷","url":"https://盒子迷.top/禁止贩卖"},
