@@ -61,7 +61,6 @@
       "api": "csp_JianPian",
       "type": 3
     },
-    },
     {
       "key": "农民影视",
       "name": "💡农民｜影视",
