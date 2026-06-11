@@ -41,7 +41,7 @@
     },
 
 {"key":"柠檬","name":"💡小新｜柠檬","type":3,"api":"csp_Nmvod","playerType":2,	"jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
-{"key":"体育直播","name":"体育直播","type":3,"api":"csp_SportsLive","searchable":0,"changeable":0,"style":{"type":"list"},"ext":{"jrkan":"http://m.jrkan2023.com","88kanqiu":"https://www.88kanqiu.la","bingchaPass":"bingcha1130"},"jar":"https://raw.giteeusercontent.com/gao410940747/tb/raw/master/jar/gs.jar"},
+{"key":"体育直播","name":"体育直播","type":3,"api":"csp_SportsLive","searchable":0,"changeable":0,"style":{"type":"list"},"ext":{"88kanqiu":"https://www.88kanqiu.la","bingchaPass":"bingcha1130"},"jar":"https://raw.giteeusercontent.com/gao410940747/tb/raw/master/jar/gs.jar"},
 
 {"key":"骚火影视","name":"💡骚火｜影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
 {"key":"三六零","name":"💡三六｜视频","type":3,"api":"csp_SP360"},  
